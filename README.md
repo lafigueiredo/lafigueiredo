@@ -1,9 +1,11 @@
 SOBRE MIM
 
-	Sou um profissional da área de direito que passou pela área de administração, mas que sempre foi interessado na área de TI. 
+Sou um profissional da área de direito que passou pela área de administração, mas que sempre foi interessado na área de TI. 
 	Gosto de ciências exatas e me interesso muito por tecnologia. Tenho o interesse de trabalhar em empresas de tecnologia que precisem de alguém disposto e motivado a trabalhar de forma presencial ou remotamente e que se interessa em realizar algo produtivo e proveitoso para a melhoria da vida social e profissional das pessoas. 
 	Tenho facilidade com línguas e falo inglês fluente, espanhol intermediário, alemão básico e português sempre aprendendo.
 	Embora, há muito não tenha me dedicado a TI venho nesses últimos 3 anos me dedicando e trabalhando meus conhecimentos para aprimorar o domínio de linguagens que serão necessárias nos próximos 5 a 10 anos. Espero mudar de carreira e me dedicar integralmente a computação.
+
+
 
   
   ABOUT ME
